@@ -1,0 +1,20 @@
+.bg {
+  background-color: aquamarine;
+  text-align: center;
+}
+.heading {
+  font-size: 30px;
+  color: blue;
+  font-style: italic;
+}
+.tabsDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.listApp {
+  padding: 5px;
+  border-radius: 3px;
+  margin: 5px;
+}
